@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View,Image, SafeAreaView, StatusBar, Platform } from 'react-native';
 
-const Filter1 = ({face:{
+const Filter7 = ({face:{
     bounds:{
         size:{width:faceWidth, height:faceHeight}
     },
